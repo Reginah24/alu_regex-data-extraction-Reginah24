@@ -70,7 +70,7 @@ alu_regex-data-extraction-project/
    ```
 3. Run the main script:
    ```
-   python main.py
+   python3 main.py
    ```
 
 ## Regex Patterns Explained
@@ -162,7 +162,7 @@ r'\$\d{1,3}(?:,\d{3})*(?:\.\d{2})?'
 
 ## Author
 
-[Your Name]
+Regina Anthony Majura
 
 ## License
 
