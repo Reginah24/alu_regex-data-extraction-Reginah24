@@ -1,0 +1,44 @@
+Here are the contents for the file /alu_regex-data-extraction-project/sample_data.txt:
+
+# Sample data for testing regex extraction:
+
+Emails:
+anthonyregina48@gmail.com
+Azam.drinks@company.co.uk
+financial.advisor-123@sub.domain.co
+
+URLs:
+https://www.helpmemyassignment.com
+https:/giz.org/page
+http://example.net/path/to/resource?param=value
+
+Phone numbers:
+(078) 456-7890
+078-456-7890
+078.456.7890
+
+Credit card numbers:
+1234 5678 9012 3456
+1234-5678-9012-3456
+4111111111111111
+
+Time formats:
+14:30
+2:30 PM
+08:45 am
+23:59
+
+HTML tags:
+<p>This is a paragraph</p>
+<div class="example">This is a div</div>
+<img src="image.jpg" alt="description">
+
+Hashtags:
+#example
+#ThisIsAHashtag
+#programming101
+
+Currency amounts:
+$19.99
+$1,234.56
+$0.50
